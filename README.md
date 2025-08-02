@@ -1,7 +1,6 @@
-## 🧮 Calculator Web App
+# 🧮 Calculator Web App
 
-A simple, responsive calculator built using **HTML**, **CSS**, and **JavaScript**.  
-This project performs basic arithmetic operations and offers a clean, modern user interface suitable for desktop and mobile browsers.
+A simple, responsive calculator built using **HTML**, **CSS**, and **JavaScript**. This project performs basic arithmetic operations and offers a clean, modern user interface suitable for desktop and mobile browsers.
 
 ---
 
@@ -16,13 +15,13 @@ This project performs basic arithmetic operations and offers a clean, modern use
 ---
 
 ## 📂 Project Structure
-calculator-/
+calculator
 
-├── index.html # Calculator structure
+├── index.html  # Calculator structure
 
-├── style.css # Styles and layout
+├── style.css  # Styles and layout
 
-├── script.js # Calculator logic and interactivity
+├── script.js  # Calculator logic and interactivity
 
-├── html.code-workspace # VS Code workspace (optional)
+├── html.code-workspace  # VS Code workspace (optional)
 
