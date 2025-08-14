@@ -1,7 +1,7 @@
 # 🧮 Calculator Web App
 
 A simple, responsive calculator built using **HTML**, **CSS**, and **JavaScript**. This project performs basic arithmetic operations and offers a clean, modern user interface suitable for desktop and mobile browsers.
-
+![image alt](https://github.com/mansi-katiyar/calculator-/blob/903667c6599996e5dd06c2e62c7cd9a6fbb583c3/output-screenshort.png)
 ---
 
 ## ✨ Features
